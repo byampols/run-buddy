@@ -1,14 +1,16 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
-##Website
+## Website
 https://byampols.github.io/run-buddy/
 
-## Contibution
-Made with <3 by Ben Yampolsky
+## Contribution
+Made with ❤️ by Ben Yampolsky
+
+### ©️2019 Run Buddy, Inc 
