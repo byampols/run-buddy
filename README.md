@@ -3,6 +3,8 @@
 ## Purpose
 A website that offers fitness training services. 
 
+![Run Buddy Homepage](/assets/images/run-buddy.png)
+
 ## Built With
 * HTML
 * CSS
